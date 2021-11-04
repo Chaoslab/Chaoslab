@@ -1,4 +1,4 @@
-Tenakoko, Ka Pai?
+Tenakoto, Ka Pai?
 Coding, Fractals, Real Time Performance and Media Processing, Lasers, Video, Audio, Production, etc... 
 Curious about Rust. IOT is actually IOHACKEDT and a terrible idea.
 Bedroom Coding Goddess only!
